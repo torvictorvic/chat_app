@@ -41,7 +41,7 @@ It supports **multiple rooms**, **user presence tracking**, and **message histor
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/chat_app.git
+git clone https://github.com/torvictorvic/chat_app.git
 cd chat_app
 ```
 
@@ -138,4 +138,4 @@ MIT License – free to use and modify.
 ---
 
 ## **Author**
-Victor Manuel Suarez Torres - victorms@gmail.com.
+Victor Manuel Suarez Torres - victormst@gmail.com.
